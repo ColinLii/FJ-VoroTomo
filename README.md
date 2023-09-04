@@ -3,7 +3,7 @@
 > Autor: Zhengbo Li et al.,
 > Department of Earth and Space Sciences, SUSTech, China
 
->  Related Paper: Multiple Voronoi partition improves multimodal dispersion imaging from ambient noise: a case study of Lasso dense array (Submitted to JGR:SE)
+>  Related Paper: Multiple Voronoi partition improves multimodal dispersion imaging from ambient noise: a case study of Lasso dense array (https://doi.org/10.1029/2022JB026081)
 
 ## Introduction
 This is an example code of the implementation of the FJ-VoroTomo method for 3-D Vs imaging of a seismic array. The step-by-step workflow is shown below:
